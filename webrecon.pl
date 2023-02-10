@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Add your name
-Author="Manoj Shrestha"
+# Author="Manoj Shrestha"
 
 # Check if domain name is provided as command line argument
 if [ $# -eq 0 ]; then
